@@ -1,2 +1,2 @@
 # Casus-Heelu-Velthem
-This repository contains the data, notebooks and figures for the master's thesis "Velthem als beïnvloedbare auteur. Een computationeel onderzoek naar Velthems schrijfstijl in zijn bewerking van Heelu’s Slag bij Woeringen" by Anouck Kuypers.
+This repository contains the data, notebooks and figures for the master's thesis "Velthem als beïnvloedbare auteur. Een computationeel onderzoek naar Velthems schrijfstijl in zijn bewerking van Heelu’s Slag bij Woeringen" by Anouck Kuypers. The XML-files for the Vijfde Partie and the *Slag bij Woeringen* have not been included due to copyright reasons, but they can easily be obtained from the Corpus Middelnederlands.
